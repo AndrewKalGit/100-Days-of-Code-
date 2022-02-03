@@ -1,9 +1,8 @@
 # 100 day of Code Log!
 
-## Day 1: Feb 2, 2022 
+## Day 1: Feb 3, 2022 
 
 ## Today's progress:
-Started Array Sums on LeetCode 
 
 ## Thoughts:
 
@@ -12,4 +11,8 @@ Started Array Sums on LeetCode
 ## Code or Solution: 
 ```js
  
+```
+
+```py
+
 ```
