@@ -1,6 +1,6 @@
 # 100 day of Code Log!
 
-## Day 1: Feb 4, 2022 
+## Day 1: Feb 5, 2022 
 
 ## Today's progress:
 
